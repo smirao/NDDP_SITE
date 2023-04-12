@@ -1,0 +1,23 @@
+const mutableInfoDict = {
+  formName: "Notre Dame of De Pere Family Service Hour Log Sheet 2022-2023",
+  publicSheet: "NDDP Spreadsheet",
+  general_events: ["Classroom",
+                  "Athletic scoreboard/gym chaperone/referee/other",
+                  "Picnic", "NDA School Dance",
+                  "Battle of the books",
+                  "Bake sale/Teacher Treats",
+                  "St. John's Homeless Shelter Serving/Driving",
+                  "Adopt-A-Family",
+                  "8th Grade Graduation Committee",
+                  "8th Grade Savings Cards",
+                  "Muffins for Moms",
+                  "Grandparent's Day",
+                  "Catholic School's Week",
+                  "Donuts for Dads"],
+  priority_events: ["Athletic",
+                    "Concessions", 
+                    "Fall Fest", 
+                    "RURN", 
+                    "Scrip", 
+                    "Lunch"]
+}
